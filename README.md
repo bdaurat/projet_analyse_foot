@@ -4,7 +4,7 @@ Ce projet analyse des données d'événements de matchs de football afin d'extra
 L’objectif est d’explorer les dynamiques collectives (triangles de passes, longs ballons, réseaux de passes) ainsi que les profils types des joueurs à partir d’un dataset d’événements détaillé.
 
 Le dataset utilisé est disponible ici :
-🔗 https://figshare.com/collections/Soccer_match_event_dataset/4415000
+https://figshare.com/collections/Soccer_match_event_dataset/4415000
 
 (Source : figshare)
 
